@@ -1,5 +1,12 @@
 # UTS---PENGOLAHAN-CITRA
-
+| NAMA | NIM |
+| - | - |
+| Rahmat Hidayat | 312210565 |
+| Satria Dwi Aprianto | 312210490 |
+| Syahril Haryanto | 312210668 |
+| Farhan Zulfahriansyah | 312210494 |
+| Robby Firmansyah | 312210643 |
+| ALFAZA PUTRA ADJIE ARIEFIANSYAH | 312210512 |
 Import Library
 ```
 import streamlit as st
