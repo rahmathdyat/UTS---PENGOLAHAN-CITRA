@@ -84,4 +84,9 @@ if uploaded_file is not None:
 ```
 
 Hasil projek
-![Screenshot 2024-05-30 112104](https://github.com/rahmathdyat/UTS---PENGOLAHAN-CITRA/assets/130628907/ca51466c-061a-4470-a208-ef3ea4c04695)
+![Screenshot 2024-05-30 112104](https://github.com/rahmathdyat/UTS---PENGOLAHAN-CITRA/assets/130628907/15056ac3-9ccc-470e-b81c-1d7579c61491)
+![Screenshot 2024-05-30 112041](https://github.com/rahmathdyat/UTS---PENGOLAHAN-CITRA/assets/130628907/e7b1bb05-7b25-4911-b590-a414a35673bd)
+![Screenshot 2024-05-30 112028](https://github.com/rahmathdyat/UTS---PENGOLAHAN-CITRA/assets/130628907/c4f41399-f516-4f3b-a175-57e341e33171)
+
+
+
